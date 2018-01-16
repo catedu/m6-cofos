@@ -20,6 +20,8 @@ Los objetivos de la escucha activa son fundamentalmente dos:
 
 **La escucha activa no es una capacidad innata** para todo el mundo y necesita de aprendizaje y práctica continuada. Actualmente sabemos que a escuchar se aprende con la práctica. En la mayoría de textos sobre comunicación encontramos ejercicios para mejorar la comunicación. Una posible propuesta es la que se muestra en las siguientes tablas.
 
+<hr/>
+
 | REGLAS DEL ARTE DE ESCUHAR |
 | --- |
 | 
@@ -32,7 +34,7 @@ Los objetivos de la escucha activa son fundamentalmente dos:
 6.  El pensamiento va más rápido que el sonido.
 7.  Mantener la mente abierta…
 
- |
+<hr/>
 
 | TÉCNICAS DE LA ESCUCHA ACTIVA |
 | --- |
@@ -43,9 +45,10 @@ Los objetivos de la escucha activa son fundamentalmente dos:
 | Reflejar |  |
 | Resumir |  |
 
+<hr/>
 Si queremos desarrollar de manera efectiva la escucha activa, debemos evitar las siguientes situaciones:
 
-- Llevar la contraria, aconsejar, dar soluciones a todo.
+- Llevar la contraria, aconsejar,** dar soluciones a todo**.
 
 - Desviar la conversación, cambiar de tema o de idea.
 
@@ -57,4 +60,8 @@ Si queremos desarrollar de manera efectiva la escucha activa, debemos evitar las
 
 - Interrumpir al otro cuando habla.
 
-        El error más habitual es querer hablar primero y expresar nuestro punto de vista a toda costa, de ahí que nos concentremos únicamente sobre la idea que queremos trasmitir, y no sobre lo que nos están diciendo. Esta forma de distraerse perjudica seriamente la comunicación. Para escuchar bien es importante olvidarse de nuestros problemas, deseos y objetivos personales y, por contra, mostrarse más dispuesto y atento hacia los demás.
+        El error más habitual es querer hablar primero y expresar nuestro punto de vista a toda costa,
+         de ahí que nos concentremos únicamente sobre la idea que queremos trasmitir, y no sobre lo que nos están diciendo.
+          Esta forma de distraerse perjudica seriamente la comunicación.
+           Para escuchar bien es importante olvidarse de nuestros problemas, deseos y objetivos personales y, por contra,
+            mostrarse más dispuesto y atento hacia los demás.
