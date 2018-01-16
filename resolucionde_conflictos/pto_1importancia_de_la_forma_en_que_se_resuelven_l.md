@@ -2,11 +2,15 @@
 
  Actitudes ante el conflicto.
 
-        Describimos cuatro actitudes básicas hacia los conflictos. Dichas actitudes responden a un modelo bidimensional del conflicto, que sitúa las distintas posibles actitudes ante el conflicto de acuerdo con dos grandes ejes: compromiso para con la relación y compromiso para con los objetivos.
+        Describimos cuatro actitudes básicas hacia los conflictos.
+        Dichas actitudes responden a un modelo bidimensional del conflicto, 
+        que sitúa las distintas posibles actitudes ante el conflicto de acuerdo con dos grandes ejes: 
+        -compromiso para con la relación y 
+        -compromiso para con los objetivos.
 
-1.  Modelo de competición: utilizando estrategias que derroten a la otra persona y le impongan nuestra voluntad, es el modelo “del más fuerte”. Nos encontramos ante una situación en la que conseguir lo que yo quiero, hacer valer mis objetivos, mis metas, es lo más importante, no importa que para ello tenga que pasar por encima de quien quiera. La relación no importa.
-2.  Modelo de evitación: utilizando estrategias de huida, de manera que nadie obtiene lo que desea, es el modelo “de esconder la cabeza bajo el agua”, se busca evitar el estallido o el desarrollo de un conflicto abierto. No enfrentamos los conflictos, por miedo o por pensar que se resolverán por si solos. Ni los objetivos, ni la relación salen bien parados, no se consiguen ninguno de los dos.
-3.  Modelo de acomodación: utilizando estrategias de renuncia a los propios objetivos para que la otra persona obtenga lo que quiera, es el modelo “de la tirita”, solución rápida para salir del paso y no perder la relación. Con tal de no confrontar a la otra parte yo no hago valer ni planteo mis objetivos. Es un modelo tan extendido o más que la competición. Vamos aguantando hasta que no podemos y entonces nos destruimos o destruimos a la otra parte.
+1.  **Modelo de competición**: utilizando estrategias que derroten a la otra persona y le impongan nuestra voluntad, es el modelo “_del más fuerte_”. Nos encontramos ante una situación en la que conseguir lo que yo quiero, hacer valer mis objetivos, mis metas, es lo más importante, no importa que para ello tenga que pasar por encima de quien quiera. La relación no importa.
+2.  **Modelo de evitación**: utilizando estrategias de huida, de manera que nadie obtiene lo que desea, es el modelo “_de esconder la cabeza bajo el agua_”, se busca evitar el estallido o el desarrollo de un conflicto abierto. No enfrentamos los conflictos, por miedo o por pensar que se resolverán por si solos. Ni los objetivos, ni la relación salen bien parados, no se consiguen ninguno de los dos.
+3.  **Modelo de acomodación**: utilizando estrategias de renuncia a los propios objetivos para que la otra persona obtenga lo que quiera, es el modelo “de la tirita”, solución rápida para salir del paso y no perder la relación. Con tal de no confrontar a la otra parte yo no hago valer ni planteo mis objetivos. Es un modelo tan extendido o más que la competición. Vamos aguantando hasta que no podemos y entonces nos destruimos o destruimos a la otra parte.
 
 ![](images/image5.png)
 
