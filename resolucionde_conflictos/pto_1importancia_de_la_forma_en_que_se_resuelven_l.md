@@ -23,3 +23,5 @@ Es importante recalcar que la mayor parte de nosotros adoptamos distintas actitu
         En todo conflicto, de alguna manera y paradójicamente, las partes cooperan pero, generalmente, para destruirse. Se trata de aprender que lo que puede parecer la mejor estrategia individual puede ser la peor estrategia colectiva. Aprender que con quien tenemos un conflicto no tiene porque ser nuestro enemigo y que la mejor alternativa puede ser no competir con él, sino colaborar juntos para resolverlo de la manera más satisfactoria para ambos. El gran reto es empezar a hacer ver a las partes que cooperar es mejor, ya no sólo desde el punto de vista ético, sino también desde el punto de vista de la eficacia.
 
     “Sólo se conoce bien con el corazón” - El Principito -
+    
+    <iframe src="https://giphy.com/embed/7lJKqGgUKDxfO" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/editor-movie-the-little-prince-7lJKqGgUKDxfO">via GIPHY</a></p>
