@@ -24,4 +24,4 @@ Es importante recalcar que la mayor parte de nosotros adoptamos distintas actitu
 
     “Sólo se conoce bien con el corazón” - El Principito -
     
-    <iframe src="https://giphy.com/embed/7lJKqGgUKDxfO" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/editor-movie-the-little-prince-7lJKqGgUKDxfO">via GIPHY</a></p>
+   <iframe src="https://giphy.com/embed/7lJKqGgUKDxfO" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/editor-movie-the-little-prince-7lJKqGgUKDxfO">via GIPHY</a></p>
