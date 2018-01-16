@@ -14,7 +14,6 @@
     1.  Gestión positiva del conflicto.
         *   Percepciones.
         *   Identificar intereses.
-
 1.  Gestión de equipos humanos en un centro escolar
     1.  Mejorar el trabajo en grupo. El grupo y la tarea.
     1.  Las relaciones en los equipos docentes: escuchar, comprender, valorar.
