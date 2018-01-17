@@ -20,4 +20,4 @@ Cuando hablamos de imprecisiones tal y como nos muestra el gráfico nos referimo
 
 - **Juicios**: Emitir juicios negativos o infundados cuando no nos los piden.
 
-- Suposiciones: Interpretar la realidad, expresando el motivo oculto de la actitud o conducta.
+- **Suposiciones**: Interpretar la realidad, expresando el motivo oculto de la actitud o conducta.
