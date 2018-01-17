@@ -60,8 +60,6 @@ Si queremos desarrollar de manera efectiva la escucha activa, debemos evitar las
 
 - Interrumpir al otro cuando habla.
 
-        El error más habitual es querer hablar primero y expresar nuestro punto de vista a toda costa,
-         de ahí que nos concentremos únicamente sobre la idea que queremos trasmitir, y no sobre lo que nos están diciendo.
-          Esta forma de distraerse perjudica seriamente la comunicación.
-           Para escuchar bien es importante olvidarse de nuestros problemas, deseos y objetivos personales y, por contra,
-            mostrarse más dispuesto y atento hacia los demás.
+El error más habitual es querer hablar primero y expresar nuestro punto de vista a toda costa,de ahí que nos concentremos únicamente sobre la idea que queremos trasmitir, y no sobre lo que nos están diciendo.
+Esta forma de distraerse perjudica seriamente la comunicación.
+Para escuchar bien es importante olvidarse de nuestros problemas, deseos y objetivos personales y, por contra, mostrarse más dispuesto y atento hacia los demás.
