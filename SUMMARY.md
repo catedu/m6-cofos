@@ -14,6 +14,9 @@
   * [Pto 2.2 Identificar intereses](pto-22-identificar-intereses.md)
 * [3. Gestión de equipos humanos en un centro escolar](gestion_de_equipos_humanos_en_un_centro_escolar/README.md)
   * [Pto 1. Mejorar el trabajo en grupo: El grupo y la tarea](gestion_de_equipos_humanos_en_un_centro_escolar/pto_1_mejorar_el_trabajo_en_grupo_el_grupo_y_la_ta.md)
+  * [Pto 1.1 Fase de Pretarea](pto-11-fase-de-pretarea.md)
+  * [Pto 1.2 Fase de Tarea](pto-12-fase-de-tarea.md)
   * [Pto 2. Las relaciones en los equipos docentes: escuchar, comprender, valorar.](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc.md)
   * [Pto 3. Liderazgo](gestion_de_equipos_humanos_en_un_centro_escolar/pto_3_liderazgo.md)
+* [Pto 1.3 Fase de implementación](pto-13-fase-de-implementacion.md)
 
