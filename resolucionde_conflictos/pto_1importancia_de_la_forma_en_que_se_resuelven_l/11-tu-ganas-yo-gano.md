@@ -1,4 +1,4 @@
-#Pto 1.1 TU GANAS – YO GANO
+###Pto 1.1 TU GANAS – YO GANO
 Se trata de que todos y todas ganemos. No siempre es posible que todos lo ganen todo, pero han de percibir que ganan algo en las soluciones. Las dos partes consideran que han ganado algo. Cooperar no es acomodarse, no puede ser renunciar a aquello que nos es fundamental, de hecho hay que aprender a **NO ceder en lo fundamental**. Otra cosa diferente es que se puede ceder en lo que es menos importante
 
 Es importante recalcar que la mayor parte de nosotros adoptamos distintas actitudes ante el conflicto. Ninguna de estas actitudes podemos decir que se den, habitualmente de una forma pura y única en ninguna situación o persona. Tampoco hemos de plantear que haya actitudes malas y otras buenas para toda situación. Sin embargo, este esquema nos plantea algo muy importante y es que** cuanto más importantes sean los objetivos y la relación, más importante será aprender a cooperar**. 

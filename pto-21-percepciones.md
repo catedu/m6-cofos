@@ -1,4 +1,4 @@
-###         2.1 Percepciones:  {#2-1-percepciones}
+### 2.1 Percepciones:  {#2-1-percepciones}
 
 En todo conflicto,  hemos de ser conscientes que cada persona tiene un punto de vista particular sobre la realidad, es su percepción. Las percepciones son la forma que cada uno tenemos de interpretar el conflicto, sus causas y sus explicaciones.
 <hr/>

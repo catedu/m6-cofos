@@ -1,4 +1,4 @@
-# GESTION DE EQUIPOS HUMANOS EN UN CENTRO ESCOLAR {#gestion-de-equipos-humanos-en-un-centro-escolar}
+# 3. GESTION DE EQUIPOS HUMANOS EN UN CENTRO ESCOLAR {#gestion-de-equipos-humanos-en-un-centro-escolar}
 
 La conceptualización sobre los grupos es decisiva cuando hablamos de coordinar la formación de un centro, pues es nuestro ámbito de incidencia. Hemos de concebir que trabajamos con grupos, entendiendo el grupo como una estructura constituida por la **interdependencia de sus miembros**:
 

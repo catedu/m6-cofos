@@ -1,4 +1,4 @@
-#                                                                                                                                Pto 2. Gestión positiva del conflicto. {#pto-2-gesti-n-positiva-del-conflicto}
+##                                                                                                                              Punto 2. Gestión positiva del conflicto. {#pto-2-gesti-n-positiva-del-conflicto}
 
 _“No hay caminos para la paz, la paz es el camino”_
 
