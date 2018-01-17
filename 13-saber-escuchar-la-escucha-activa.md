@@ -36,14 +36,7 @@ Los objetivos de la escucha activa son fundamentalmente dos:
 
 <hr/>
 
-| TÉCNICAS DE LA ESCUCHA ACTIVA |
-| --- |
-| ¿Qué significa escuchar activamente? |
-| Mostrar interés |  |
-| Clarificar |  |
-| Parafrasear |  |
-| Reflejar |  |
-| Resumir |  |
+![](/assets/2018-01-17 13_39_42-Curso coordinadores de formación.doc [Modo de compatibilidad] - Microsoft Word.png)
 
 <hr/>
 Si queremos desarrollar de manera efectiva la escucha activa, debemos evitar las siguientes situaciones:
