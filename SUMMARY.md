@@ -17,6 +17,8 @@
     * [3.1.1 Fase de Pretarea](pto-11-fase-de-pretarea.md)
     * [3.1.2 Fase de Tarea](pto-12-fase-de-tarea.md)
     * [3.1.3 Fase de implementación](pto-13-fase-de-implementacion.md)
-  * [Pto 2. Las relaciones en los equipos docentes: escuchar, comprender, valorar.](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc.md)
+  * [3.2. Las relaciones en los equipos docentes: escuchar, comprender, valorar.](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc.md)
+    * [3.2.1 Reciprocidad/Sentimiento de confianza básica](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc/321-reciprocidadsentimiento-de-confianza-basica.md)
+    * [3.2.2. Actitud tolerante y el respeto a la diversidad](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc/322-actitud-tolerante-y-el-respeto-a-la-diversidad.md)
   * [Pto 3. Liderazgo](gestion_de_equipos_humanos_en_un_centro_escolar/pto_3_liderazgo.md)
 
