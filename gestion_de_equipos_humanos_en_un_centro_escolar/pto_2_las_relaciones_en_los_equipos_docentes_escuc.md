@@ -13,17 +13,3 @@ En los equipos docentes frecuentemente encontramos las relaciones interpersonale
 Avanzar en la dirección de establecer el tipo de relaciones interpersonales que se describen a continuación me parece muy útil y satisfactorio, aun siendo conocedora de que las relaciones entre los profesionales de los centros educativos no siempre son así.
 
 <iframe src="https://giphy.com/embed/3o7abHfQTraudqCstW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/teachers-series-teachersseries-3o7abHfQTraudqCstW">via GIPHY</a></p>
-
-
-
-
-
-
-
-###El poder en el grupo de formación.
-
-**Las dificultades en el trabajo y el poder**: A veces, la falta de consenso para realizar determinados trabajos, las maneras alternativas de llevarlos a término o las discrepancias en el orden de las prioridades son exponentes encubiertos entre subgrupos o entre los miembros del equipo de trabajo. Si no se ponen sobre la mesa estos conflictos y no se formulan como problemas  a resolver de manera adecuada, pueden ser causa de una larga serie de fracasos en el trabajo en grupo. A la vez, iniciar trabajos que solo interesan a una parte de los miembros, con una metodología poco consensuada o sin consenso, si no se ha trabajado cuidadosamente la situación desde el inicio, es posible que genere conflictos que boicoteen su solución o su ágil resolución. Se pueden producir pues comportamientos interferentes con la tarea, como una lucha de poder.
-
-**La lucha por la tenencia de la palabra y el poder**: La secuencia de turnos de intervención en reuniones de formación, no siempre queda regulada a través de un moderador que vaya dando la palabra a quien la pide, y a menudo el acceso a las intervenciones se resuelve por un acto de fuerza: quien es más ágil acapara el uso de la palabra y desatiende las necesidades de participación de los otros. La participación debe ser regulada de forma adecuada, de manera que se puedan plantear las aportaciones de todos los participantes y haya un equilibrio presencial de todos los miembros.  Para ello la figura del moderador es esencial, así como el uso de diferentes técnicas de trabajo en grupo.
-
-<iframe src="https://giphy.com/embed/A9grgCQ0Dm012" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jim-carrey-power-bruce-almighty-A9grgCQ0Dm012">via GIPHY</a></p>

@@ -21,5 +21,6 @@
     * [3.2.1 Reciprocidad/Sentimiento de confianza básica](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc/321-reciprocidadsentimiento-de-confianza-basica.md)
     * [3.2.2. Actitud tolerante y el respeto a la diversidad](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc/322-actitud-tolerante-y-el-respeto-a-la-diversidad.md)
     * [3.2.3 Las gratificaciones](gestion_de_equipos_humanos_en_un_centro_escolar/pto_2_las_relaciones_en_los_equipos_docentes_escuc/323-las-gratificaciones.md)
+    * 3.2.4. El poder en el grupo de formación.
   * [Pto 3. Liderazgo](gestion_de_equipos_humanos_en_un_centro_escolar/pto_3_liderazgo.md)
 
