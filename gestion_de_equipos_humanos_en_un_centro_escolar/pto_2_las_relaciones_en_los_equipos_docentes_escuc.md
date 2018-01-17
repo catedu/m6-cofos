@@ -12,6 +12,8 @@ En los equipos docentes frecuentemente encontramos las relaciones interpersonale
 
 Avanzar en la dirección de establecer el tipo de relaciones interpersonales que se describen a continuación me parece muy útil y satisfactorio, aun siendo conocedora de que las relaciones entre los profesionales de los centros educativos no siempre son así.
 
+<iframe src="https://giphy.com/embed/3o6MbsWjZwURvye0ko" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-14-the-simpsons-14x5-3o6MbsWjZwURvye0ko">via GIPHY</a></p>
+
 ###Reciprocidad / Sentimiento de confianza básica.
 
 Cuando hablamos de la formación de un grupo de docentes de un centro, hemos de buscar que cada profesor se sienta potenciado por sus compañeros en la consecución de sus metas de formación. Es lo que se denomina relaciones de reciprocidad positiva. Cada individuo recibe de los otros aportaciones que van a favor de algunas de sus aspiraciones; a la vez el centro se ve favorecido por las aportaciones de cada una de las individualidades. Existe una consideración y respeto por los proyectos
@@ -27,6 +29,7 @@ Mostrarse tolerante con los compañeros de trabajo y ser respetuoso con la diver
 Aumentar nuestro nivel de tolerancia en relación a la diversidad de maneras de trabajar, comporta beneficios para las relaciones interpersonales: hace más fácil la coordinación y aumenta la cohesión del grupo. Tolerar la diversidad en los centros educativos supone un esfuerzo y un sufrimiento, en la medida que requiere muy a menudo aceptar aquello que no coincide con las maneras de hacer o sentir o pensar propias.
 
 Si bien no podemos renunciar a la ganancia que supone ampliar los lindes de la tolerancia en relación a la diversidad, también es cierto que no todo es admisible.
+<iframe src="https://giphy.com/embed/C4SFWGShQfpqE" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girl-group-front-C4SFWGShQfpqE">via GIPHY</a></p>
 
 ###Las gratificaciones
 
@@ -37,6 +40,8 @@ Todos estos aspectos suponen ya, de hecho, una atención y un cuidado recíproco
 Las comunicaciones gratificadoras nos son muy necesarias a los profesionales de la educación. Son especialmente importantes en situaciones en las que circulan múltiples comunicaciones descalificadoras o ingratas. Y los profesionales de los centros educativos se cansan de recibir este tipo de mensajes, desde diversas fuentes.
 
 Aumentar la capacidad de generar este tipo de comunicaciones, favorece el establecimiento de relaciones de reciprocidad positiva, son prácticas que los equipos docentes pueden aprender a incorporar, en la medida adecuada, en su dinámica interna.
+
+<iframe src="https://giphy.com/embed/PxOMoE7efZoU8" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/group-PxOMoE7efZoU8">via GIPHY</a></p>
 
 ###El poder en el grupo de formación.
 
