@@ -1,4 +1,4 @@
-### 1.3 Saber escuchar – La escucha activa. {#1-3-saber-escuchar-la-escucha-activa}
+## 1.3 Saber escuchar – La escucha activa. {#1-3-saber-escuchar-la-escucha-activa}
 
 Saber escuchar y atender es una cualidad imprescindible de un asesor o coordinador.
 
@@ -63,3 +63,4 @@ Si queremos desarrollar de manera efectiva la escucha activa, debemos evitar las
 El error más habitual es querer hablar primero y expresar nuestro punto de vista a toda costa,de ahí que nos concentremos únicamente sobre la idea que queremos trasmitir, y no sobre lo que nos están diciendo.
 Esta forma de distraerse perjudica seriamente la comunicación.
 Para escuchar bien es importante olvidarse de nuestros problemas, deseos y objetivos personales y, por contra, mostrarse más dispuesto y atento hacia los demás.
+<iframe src="https://giphy.com/embed/133DHwxKoFPXpe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-tangled-rapunzel-133DHwxKoFPXpe">via GIPHY</a></p>
