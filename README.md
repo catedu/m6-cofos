@@ -11,6 +11,7 @@
     1. Lenguaje no verbal.
 1.  Resolución de conflictos.
     1.  Importancia de la forma en que se resuelven los conflictos. Actitudes ante el conflicto.
+        * Tú ganas yo gano
     1.  Gestión positiva del conflicto.
         *   Percepciones.
         *   Identificar intereses.
