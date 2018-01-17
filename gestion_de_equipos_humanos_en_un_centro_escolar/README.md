@@ -5,3 +5,10 @@ La conceptualización sobre los grupos es decisiva cuando hablamos de coordinar 
 ![](/assets/2018-01-17 10_15_41-Curso coordinadores de formación.doc.DOC [Modo de compatibilidad] - Microsoft Wo.png)
 
 Es importante apropiarse de herramientas eficaces para favorecer el funcionamiento de los grupos de trabajo y optimizar las relaciones interpersonales en los equipos docentes.
+
+* Mejorar el trabajo en equipo
+    * Fase de Pretarea
+    * Fase de tarea
+    * Fase de Implementación
+* Las relaciones en los equipos docentes
+* Liderazgo
