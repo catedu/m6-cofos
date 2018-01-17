@@ -18,10 +18,10 @@ En una situación conflictiva las personas suelen expresar sus posiciones. A par
 
 | “Dos hermanas se peleaban por una naranja. Una decía que era suya “por ser la mayor”; la otra, que era suya “porque era la más fuerte”. Discutieron acaloradamente sin ponerse de acuerdo. Finalmente, cogieron un cuchillo, cortaron la naranja por la mitad y cada una tomo su parte. Una de ellas exprimió la mitad y tiró la cáscara. La otra ralló la cáscara para hacer un pastel y tiró el resto.” |
 | --- |
-| PARTES  | HERMANA A | HERMANA B |
-| PERCEPCIONES |  |  |
-| POSICIONES |  |  |
-| INTERESES |  |  |
+| **PARTES  **| **HERMANA A **| **HERMANA B** |
+| **PERCEPCIONES **|  |  |
+| **POSICIONES **|  |  |
+| **INTERESES **|  |  |
 | Piensa:  ● ¿Existía otra forma más favorable para ambas de resolver el conflicto? |
 
         Como síntesis de este apartado podemos afirmar:
@@ -30,6 +30,6 @@ En una situación conflictiva las personas suelen expresar sus posiciones. A par
 * Desde la óptica de la Resolución de conflictos, el conflicto es un fenómeno dinámico que surgeentre dos o más personas o grupos de personas y en el cual existen percepciones, intereses y posiciones distintas, que caracterizan la visión de cada una de las partes.
 
 
-_“No hay nada más práctico que una buena teoría”_
+_“No hay nada más práctico que una buena teoría”_                                                                                                                              [Kurt Lewin](https://es.wikipedia.org/wiki/Kurt_Lewin)
 
-                                                                                                                                       Kurt Lewin
+![](/assets/2018-01-17 10_13_06-kurt lewin at DuckDuckGo.png)
