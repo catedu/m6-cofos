@@ -12,7 +12,7 @@ En los equipos docentes frecuentemente encontramos las relaciones interpersonale
 
 Avanzar en la dirección de establecer el tipo de relaciones interpersonales que se describen a continuación me parece muy útil y satisfactorio, aun siendo conocedora de que las relaciones entre los profesionales de los centros educativos no siempre son así.
 
-<iframe src="https://giphy.com/embed/3o6MbsWjZwURvye0ko" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-14-the-simpsons-14x5-3o6MbsWjZwURvye0ko">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3o7abHfQTraudqCstW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/teachers-series-teachersseries-3o7abHfQTraudqCstW">via GIPHY</a></p>
 
 ###Reciprocidad / Sentimiento de confianza básica.
 
