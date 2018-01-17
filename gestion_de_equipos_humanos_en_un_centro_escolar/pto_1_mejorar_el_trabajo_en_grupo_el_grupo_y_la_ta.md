@@ -6,6 +6,8 @@ Cuando un grupo se enfrenta a una tarea, que en nuestro ámbito puede plantearse
 2.  Fase de tarea
 3.  Fase de Implementación
 
+<iframe src="https://giphy.com/embed/IxjZ4cgqh2VP2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/new-tech-construction-IxjZ4cgqh2VP2">via GIPHY</a></p>
+
 
 
 
