@@ -6,3 +6,4 @@ individuales de los distintos profesores y por los proyectos institucionales. La
 
 Las relaciones de reciprocidad positiva implican relaciones de confianza básica: suponen la consideración del otro, desde el principio, en términos positivos, como un colaborador. El profesor en estas condiciones, puede experimentar a los otros como enriquecedores.
 
+<iframe src="https://giphy.com/embed/3o7abHfQTraudqCstW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/teachers-series-teachersseries-3o7abHfQTraudqCstW">via GIPHY</a></p>
