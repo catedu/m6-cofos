@@ -6,5 +6,5 @@
 
 Existe todo un abanico de posibilidades de mejora de la comunicación. Gracias al avance que han tenido las ciencias de la comunicación, ahora sabemos que la forma es tan importante como el contenido, que a comunicar se aprende y que el mensaje que se recibe viene determinado por las palabras, pero también por la intencionalidad, el tipo de relación y las actitudes tanto del emisor como el receptor. Cuando hablamos de mejorar la comunicación, pensamos en unas habilidades comunicativas personalizadas, es decir, cada uno ha de encontrar la concreción que le es propia.
 
-<iframe src="https://giphy.com/embed/8UUYqeo13j4XK" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8UUYqeo13j4XK">via GIPHY</a></p>
+
 
