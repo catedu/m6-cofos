@@ -22,9 +22,21 @@ En una situación conflictiva las personas suelen expresar sus posiciones. A par
 | **PERCEPCIONES **|  |  |
 | **POSICIONES **|  |  |
 | **INTERESES **|  |  |
-| Piensa:  ● ¿Existía otra forma más favorable para ambas de resolver el conflicto? |
 
-        Como síntesis de este apartado podemos afirmar:
+Piensa:
+* ¿Existía otra forma más favorable para ambas de resolver el conflicto? 
+* ¿Por qué no encontraron esa otra solución?
+
+Después de pensarlo un poco, mira la solución :
+
+%accordion%Solución%accordion%
+
+![](/assets/2018-01-18 07_39_00-Curso coordinadores de formación.doc.DOC [Modo de compatibilidad] - Microsoft Wo.png)
+
+%/accordion%
+
+<hr/>
+Como síntesis de este apartado podemos afirmar:
 
 * La Resolución de conflictos es uno de los nuevos paradigmas de paz, que alberga el conjunto de todo tipo de conocimientos sobre el conflicto, incluyendo técnicas, y estrategias para su tratamiento y transformación positiva.
 * Desde la óptica de la Resolución de conflictos, el conflicto es un fenómeno dinámico que surgeentre dos o más personas o grupos de personas y en el cual existen percepciones, intereses y posiciones distintas, que caracterizan la visión de cada una de las partes.
