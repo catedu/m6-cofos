@@ -21,7 +21,7 @@ En una situación conflictiva las personas suelen expresar sus posiciones. A par
 | **PARTES  **| **HERMANA A **| **HERMANA B** |
 | **PERCEPCIONES **|  |  |
 | **POSICIONES **|  |  |
-| **INTERESES **|  |  |
+| **INTERESES **|  |  |  
 
 Piensa:
 * ¿Existía otra forma más favorable para ambas de resolver el conflicto? 
