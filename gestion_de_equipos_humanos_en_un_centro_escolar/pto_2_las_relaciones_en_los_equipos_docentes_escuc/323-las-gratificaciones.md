@@ -8,5 +8,5 @@ Las comunicaciones gratificadoras nos son muy necesarias a los profesionales de 
 
 Aumentar la capacidad de generar este tipo de comunicaciones, favorece el establecimiento de relaciones de reciprocidad positiva, son prácticas que los equipos docentes pueden aprender a incorporar, en la medida adecuada, en su dinámica interna.
 
-<iframe src="https://giphy.com/embed/PxOMoE7efZoU8" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/group-PxOMoE7efZoU8">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/1n7vN3yyNFpFC" width="480" height="170" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zootopia-clawhauser-officer-1n7vN3yyNFpFC">via GIPHY</a></p>
 
