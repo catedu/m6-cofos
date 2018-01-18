@@ -27,13 +27,9 @@ No podemos ser exhaustivos, ya que la cantidad de posibilidades que tiene el men
 
 
 
-<iframe src="https://giphy.com/embed/3oKIPnFhtILDix5mbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3oKIPnFhtILDix5mbm">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/3oKIPBte5mByhTHkQw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3oKIPBte5mByhTHkQw">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/l4FGxlA3Jef3ys3Xa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-l4FGxlA3Jef3ys3Xa">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/3ohzdIKeArmJUOKJP2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3ohzdIKeArmJUOKJP2">via GIPHY</a></p><iframe src="https://giphy.com/embed/3ohzdF8NxefLYsAKwE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3ohzdF8NxefLYsAKwE">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/3oKIPsRGm5zg4rxLvq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3oKIPsRGm5zg4rxLvq">via GIPHY</a></p><iframe src="https://giphy.com/embed/3oKIPvxeyEbxYJ7qbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3oKIPvxeyEbxYJ7qbm">via GIPHY</a></p>
+
 <iframe src="https://giphy.com/embed/26FmQhYAvbNPYRJwk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-26FmQhYAvbNPYRJwk">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/3ohzdTm80B15MT1zhK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-3ohzdTm80B15MT1zhK">via GIPHY</a></p>
+
 
 
 
