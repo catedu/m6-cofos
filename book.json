@@ -1,0 +1,28 @@
+{
+    "plugins": ["youtube", "accordion", "-highlight", "sunlight-highlighter", "image-captions", "quiz"],
+    "pluginsConfig": {
+        "sunlight-highlighter": {
+            "theme": "dark",
+            "lineNumbers": true
+        },
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "quiz": {
+            "labels": {
+                "check": "Comprobar",
+                "showExplanation": "Retroalimentación",
+                "showCorrect": "Mostrar la respuesta correcta",
+                "explanationHeader": "Explicación"
+            },
+            "text": {
+                "noChosen": "Elige al menos una respuesta",
+                "incomplete": "Faltan algunas respuestas correctas"
+            },
+            "buttons": {
+                "showCorrect": true,
+                "showExplanation": true
+            }
+        }
+    }
+}
