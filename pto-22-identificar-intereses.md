@@ -16,7 +16,9 @@ Las **necesidades**. Por debajo de los intereses todavía están las necesidades
 En una situación conflictiva las personas suelen expresar sus posiciones. A partir de puntos de vista particulares hacen peticiones concretas. Desde las posiciones es muy difícil gestionar un conflicto de manera que todo el mundo salga beneficiado. Hay que descubrir que intereses hay por debajo de las posiciones. Un ejercicio que nos puede ilustrar y experimentar la diferencia entre percepciones/ posiciones e intereses, es el ejercicio de la mandarina.
 <hr/>
 
-| “Dos hermanas se peleaban por una naranja. Una decía que era suya “por ser la mayor”; la otra, que era suya “porque era la más fuerte”. Discutieron acaloradamente sin ponerse de acuerdo. Finalmente, cogieron un cuchillo, cortaron la naranja por la mitad y cada una tomo su parte. Una de ellas exprimió la mitad y tiró la cáscara. La otra ralló la cáscara para hacer un pastel y tiró el resto.” |
+Dos hermanas se peleaban por una naranja. Una decía que era suya “por ser la mayor”; la otra, que era suya “porque era la más fuerte”. Discutieron acaloradamente sin ponerse de acuerdo. Finalmente, cogieron un cuchillo, cortaron la naranja por la mitad y cada una tomo su parte. Una de ellas exprimió la mitad y tiró la cáscara. La otra ralló la cáscara para hacer un pastel y tiró el resto.
+
+|Tabla
 | --- |
 | **PARTES  **| **HERMANA A **| **HERMANA B** |
 | **PERCEPCIONES **|  |  |
