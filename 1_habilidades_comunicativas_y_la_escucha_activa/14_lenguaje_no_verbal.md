@@ -25,6 +25,8 @@ No podemos ser exhaustivos, ya que la cantidad de posibilidades que tiene el men
 | **Gestos**. | Abiertos, espontáneos. | Agresivos, tensos, artificiales. |
 | **Tono de voz**. | Cálido, suave, cercano. | Aburrido, irritado, distante. |
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BIHg4MdpmRycq3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AkshayKumar409/body-language-52615239" title="Body language" target="_blank">Body language</a> </strong> from <strong><a href="//www.slideshare.net/AkshayKumar409" target="_blank">CU UNIVERSITY </a></strong> </div>
+
 <iframe src="https://giphy.com/embed/8UUYqeo13j4XK" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8UUYqeo13j4XK">via GIPHY</a></p>
 
 <iframe src="https://giphy.com/embed/26FmQhYAvbNPYRJwk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-26FmQhYAvbNPYRJwk">via GIPHY</a></p>
