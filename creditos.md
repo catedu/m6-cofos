@@ -1,4 +1,4 @@
-2018 por Rosa Ferez
+2018 por Mª Rosa Ferez Puchades.
 
 Los contenidos se distribuye bajo licencia Creative Commons tipo BY-NC-SA
 
@@ -7,6 +7,8 @@ Los contenidos se distribuye bajo licencia Creative Commons tipo BY-NC-SA
 Excepto para las imágenes embebidas de GIFPY que están en estos [términos](https://giphy.com/terms).
 
 Cualquier observación o detección de error por favor aquí [soporte.catedu.es](http://soporte.catedu.es/)
+
+![](/assets/2018-01-21 20_36_35-Catedu.png)
 
 
 
