@@ -22,7 +22,7 @@ Los objetivos de la escucha activa son fundamentalmente dos:
 
 <hr/>
 
-| REGLAS DEL ARTE DE ESCUHAR |
+| REGLAS DEL ARTE DE ESCUCHAR |
 | --- |
 | 
 

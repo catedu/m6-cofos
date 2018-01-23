@@ -7,6 +7,8 @@ individual a la grupal. Cuando intentamos detectar las necesidades de formación
 **
 En la fase de pre-tarea, se produce una aproximación de los puntos de vista. Han de quedar claros los objetivos de la formación o del grupo y como nos vamos a organizar para trabajar. Hemos de centrarnos pues en clarificar los objetivos y el proceso para llevarlos a término.
 
+“Lo que tenemos que aprender lo aprendemos haciendo” Aristóteles
+
 ![](/assets/2018-01-17 10_16_58-.png)
 
 El grado de claridad en los **objetivos **influye en la eficacia. En ocasiones los grupos no encuentran dificultades para establecer los objetivos y para especificar las vías de desarrollo; otras veces en cambio este proceso no es fácil. Cuando no está definido de manera precisa, la confusión que genera disminuye la operatividad del grupo. En ocasiones, iniciamos procesos de formación, con los que si bien manifiestamente todo el mundo está de acuerdo en iniciar, en el fondo los diversos miembros del grupo no lo entienden de la misma manera, hay una confusión en los objetivos pretendidos. Los miembros sin saberlo están pensando en objetivos diferentes.
