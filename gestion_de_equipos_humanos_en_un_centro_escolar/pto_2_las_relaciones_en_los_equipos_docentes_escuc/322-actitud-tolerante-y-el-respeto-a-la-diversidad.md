@@ -5,5 +5,3 @@ Mostrarse tolerante con los compañeros de trabajo y ser respetuoso con la diver
 Aumentar nuestro nivel de tolerancia en relación a la diversidad de maneras de trabajar, comporta beneficios para las relaciones interpersonales: hace más fácil la coordinación y aumenta la cohesión del grupo. Tolerar la diversidad en los centros educativos supone un esfuerzo y un sufrimiento, en la medida que requiere muy a menudo aceptar aquello que no coincide con las maneras de hacer o sentir o pensar propias.
 
 Si bien no podemos renunciar a la ganancia que supone ampliar los lindes de la tolerancia en relación a la diversidad, también es cierto que no todo es admisible.
-<iframe src="https://giphy.com/embed/C4SFWGShQfpqE" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girl-group-front-C4SFWGShQfpqE">via GIPHY</a></p>
-
